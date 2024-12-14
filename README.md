@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error related to mutable borrowing. The program attempts to create multiple mutable borrows of the same variable which leads to a compiler error.  The solution demonstrates how to correctly handle mutable borrowing to avoid this issue.
